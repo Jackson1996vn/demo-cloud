@@ -1,3 +1,5 @@
 /backend-code/build/
 /.idea/
 /backend-code/node_modules/
+/.terraform/
+/demo_function.zip
